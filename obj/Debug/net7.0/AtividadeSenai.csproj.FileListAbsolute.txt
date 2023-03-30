@@ -1,0 +1,15 @@
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\bin\Debug\net7.0\AtividadeSenai.exe
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\bin\Debug\net7.0\AtividadeSenai.deps.json
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\bin\Debug\net7.0\AtividadeSenai.runtimeconfig.json
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\bin\Debug\net7.0\AtividadeSenai.dll
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\bin\Debug\net7.0\AtividadeSenai.pdb
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\obj\Debug\net7.0\AtividadeSenai.csproj.AssemblyReference.cache
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\obj\Debug\net7.0\AtividadeSenai.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\obj\Debug\net7.0\AtividadeSenai.AssemblyInfoInputs.cache
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\obj\Debug\net7.0\AtividadeSenai.AssemblyInfo.cs
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\obj\Debug\net7.0\AtividadeSenai.csproj.CoreCompileInputs.cache
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\obj\Debug\net7.0\AtividadeSenai.dll
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\obj\Debug\net7.0\refint\AtividadeSenai.dll
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\obj\Debug\net7.0\AtividadeSenai.pdb
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\obj\Debug\net7.0\AtividadeSenai.genruntimeconfig.cache
+D:\DEV\Aulas Curso C# - Senai\AtividadeSenai\obj\Debug\net7.0\ref\AtividadeSenai.dll
